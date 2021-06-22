@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "AWS Lambda - Serverless"
+title = "AWS Lambda - Serverlessssss"
 theme = "ananke"
 
 [params.lambdaComments]
